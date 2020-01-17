@@ -8,11 +8,12 @@ my_name -> "grace chun"
 name_length <- "nchar (my_name)"
 
 # Print the number of letters in your name
+print ("my_name")
 
 
 # Create a variable `now_doing` that is your name followed by "is programming!" 
 # (use the `paste()` function)
-
+variable <-
 
 # Make the `now_doing` variable upper case
  
@@ -21,7 +22,9 @@ name_length <- "nchar (my_name)"
 
 # Pick two of your favorite numbers (between 1 and 100) and assign them to 
 # variables `fav_1` and `fav_2`
+fav_1 <- 
 
+fav_2 <- 
 
 # Divide each number by the square root of 201 and save the new value in the
 # original variable
